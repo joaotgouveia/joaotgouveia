@@ -1,3 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaotgouveia&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![joaotgouveia's Stats](https://github-readme-stats.vercel.app/api?username=joaotgouveia&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaotgouveia&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![joaotgouveia's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaotgouveia&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
